@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 College Sophomore studying BS Computer Science in Mindanao State University - Iligan Institute of Technology<br>🔭 I’m currently working on my Finance Tracker WebApp-Quanta<br>🌱 I’m currently learning PostgreSQL, TailwindCSS, & TypeScript<br>😄 Pronouns: He/Him<br>
+🎓 College Sophomore studying BS Computer Science at Mindanao State University - Iligan Institute of Technology<br>🔭 I’m currently working on my Finance Tracker WebApp-Quanta<br>🌱 I’m currently learning PostgreSQL, TailwindCSS, & TypeScript<br>😄 Pronouns: He/Him<br>
 
 
 ## 🌐 Socials:
