@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Incoming Junior studying BS Computer Science at Mindanao State University - Iligan Institute of Technology<br>🔭 Currently working on an automated data analytics web application. br> 🌱 I’m currently learning AWS.<br>😄 Pronouns: He/Him<br>
+🎓 Incoming Junior studying BS Computer Science at Mindanao State University - Iligan Institute of Technology<br>🔭 Currently working on an automated data analytics web application. <br> 🌱 I’m currently learning AWS.<br>😄 Pronouns: He/Him<br>
 
 
 ## 🌐 Socials:
