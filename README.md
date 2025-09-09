@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Incoming Junior studying BS Computer Science at Mindanao State University - Iligan Institute of Technology <br> 🔭 I am currently developing a data analytics web application using Azure-native services with full automation. <br> 🌱 I’m currently learning Azure. <br> 😄 Pronouns: He/Him <br>
+🎓 Incoming Junior studying BS Computer Science at Mindanao State University - Iligan Institute of Technology <br> 🌱 I’m currently learning Azure. <br> 😄 Pronouns: He/Him <br>
 
 
 ## 🌐 Socials:
